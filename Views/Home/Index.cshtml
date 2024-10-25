@@ -1,0 +1,129 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@section styles {
+    <link rel="stylesheet" href="~/css/professor.css" />
+}
+
+@section scripts {
+    <script src="~/js/professor.js"></script>
+}
+
+<div class="frame">
+    <div class="side-bar" role="navigation">
+        <h3>Menu</h3>
+        <div class="dropdown">
+            <button class="dropdown-btn" onclick="toggleDropdown('dropdownTurma')"><img src="img/turma.png" alt="">
+                Turmas</button>
+            <div class="dropdown-content" id="dropdownTurma">
+                <a href="#" onclick="openPop(event, 'criarTurma')"><img src="img/mais.png" alt="" id="criar-turma">Criar turma</a>
+                <a href="#" onclick="aparecerConteiner('gerenciarTurma')"><img src="img/gerenciar-turma.png"
+                    alt="">Gerenciar turmas</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <button class="dropdown-btn" onclick="toggleDropdown('dropdownPresenca')">
+                <img src="img/lista-presenca.png" alt="">
+                Lista de presença</button>
+        </div>
+        <div class="dropdown">
+            <button class="dropdown-btn" onclick="toggleDropdown('dropdownCalendario')"><img src="img/calendario.png" alt="">
+                Calendario</button>
+            <div class="dropdown-content" id="dropdownCalendario">
+                <a href="#"><img src="img/agendar.png" alt="">Agendar aula</a>
+                <a href="#"><img src="img/visualizar-agenda.png" alt="">Vizualizar agenda</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <button class="dropdown-btn" onclick="toggleDropdown('dropdownAtividade')"><img src="img/atividade.png"
+                    alt="">
+                Atividade</button>
+            <div class="dropdown-content" id="dropdownAtividade">
+                <a href="#"><img src="img/mais.png" alt="">Cria atividade</a>
+                <a href="#"><img src="img/para-fazer-tudo.png" alt="">Gerenciar atividades</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <button class="dropdown-btn" onclick="toggleDropdown('dropdownMaterial')"><img src="img/material.png"
+                    alt="">
+                Material didático</button>
+            <div class="dropdown-content" id="dropdownMaterial">
+                <a href="#"><img src="img/envio.png" alt="">Postar material</a>
+                <a href="#"><img src="img/caderno-alternativo.png" alt="">Gerenciar material</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <button class="dropdown-btn" onclick="toggleDropdown('dropdownRelatorio')"><img src="img/relatorio.png"
+                    alt="">
+                Relatorio</button>
+            <div class="dropdown-content" id="dropdownRelatorio">
+                <a href="#"><img src="img/teste.png" alt="">Relatorio de notas</a>
+                <a href="#"><img src="img/estatisticas.png" alt="">Analise de participação</a>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <section class="criar-turma" id="criarTurma">
+            <h1>Criar turma</h1>
+            <hr>
+            <form id="formCriarTurma" method="POST" action="/cadastrarTurma">
+                <label for="nome" class="form-label">Nome da Turma:</label>
+                <input type="text" class="form-control" id="nome" name="nome" required><br> 
+
+                <label for="secao">Seção:</label>
+                <input type="text" class="form-control" id="secao" name="secao"><br>
+
+                <label for="sala">Sala:</label>
+                <input type="text" class="form-control" id="sala" name="sala"><br>
+
+                <label for="disciplina">Disciplina:</label>
+                <input type="text" class="form-control" id="disciplina" name="disciplina">
+
+                <div class="btn-criar-turma">
+                    <input type="reset" value="Cancelar" class="btn-acao-turma" onclick="closePop('criarTurma')">
+                    <input type="submit" value="Criar Turma" class="btn-acao-turma">
+                </div>
+            </form>
+        </section>
+        <section class="editar-turma" id="editarTurma">
+            <h1>Editar turma</h1>
+            <hr>
+            <form id="formCriarTurma" method="POST" action="/editarTurma">
+                <label for="nome" class="form-label">Nome da Turma:</label>
+                <input type="text" class="form-control" id="nome" name="nome" required><br> 
+
+                <label for="secao">Seção:</label>
+                <input type="text" class="form-control" id="secao" name="secao"><br>
+
+                <label for="sala">Sala:</label>
+                <input type="text" class="form-control" id="sala" name="sala"><br>
+
+                <label for="disciplina">Disciplina:</label>
+                <input type="text" class="form-control" id="disciplina" name="disciplina">
+
+                <input type="hidden">
+
+                <div class="btn-criar-turma">
+                    <input type="reset" value="Cancelar" class="btn-acao-turma" onclick="closePop('editarTurma')">
+                    <input type="submit" value="Atualizar" class="btn-acao-turma">
+                </div>
+            </form>
+        </section>
+        <section class="gerenciar-turma" id="gerenciarTurma">
+            <br>
+            <h1>Gerenciar turma</h1><br><br>
+            <div class="container-lista">
+                <h1>Disciplina</h1>
+                <h2>Nome da Turma</h2>
+                <h3>3 ano</h3>
+                <h4>G88405</h4>
+                <div class="acoes-turma">
+                    <button onclick="openPop(event, 'editarTurma')"><img src="img/editar.png" alt=""></button>
+                    <button><img src="img/engrenagem.png" alt=""></button>
+                    <button><img src="img/excluir.png" alt=""></button>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
