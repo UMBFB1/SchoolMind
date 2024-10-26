@@ -28,3 +28,4 @@ C:\Users\taylo\Downloads\SchoolMind\obj\Debug\net8.0\refint\SchoolMind.dll
 C:\Users\taylo\Downloads\SchoolMind\obj\Debug\net8.0\SchoolMind.pdb
 C:\Users\taylo\Downloads\SchoolMind\obj\Debug\net8.0\SchoolMind.genruntimeconfig.cache
 C:\Users\taylo\Downloads\SchoolMind\obj\Debug\net8.0\ref\SchoolMind.dll
+C:\Users\taylo\Downloads\SchoolMind\obj\Debug\net8.0\SchoolMind.sourcelink.json

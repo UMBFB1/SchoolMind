@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "C23j/kDZF120TU4YZZSLT5T+CKewkOYKdUz/eJBEzxg=",
+  "Hash": "6NHrcR/iySercHxJd5GCfASVuH/gK+EnH1/7e791XX4=",
   "Source": "SchoolMind",
   "BasePath": "_content/SchoolMind",
   "Mode": "Default",
@@ -186,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\atividade.png"
+    },
+    {
+      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\botao-adicionar.png",
+      "SourceId": "SchoolMind",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "BasePath": "_content/SchoolMind",
+      "RelativePath": "img/botao-adicionar.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\botao-adicionar.png"
     },
     {
       "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\caderno-alternativo.png",
