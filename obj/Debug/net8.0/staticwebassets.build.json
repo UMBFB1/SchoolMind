@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6NHrcR/iySercHxJd5GCfASVuH/gK+EnH1/7e791XX4=",
+  "Hash": "AzZcZBrLqAV5MxK9zYZGVyGvzsxa8+rkZWOlRX9rkpM=",
   "Source": "SchoolMind",
   "BasePath": "_content/SchoolMind",
   "Mode": "Default",
@@ -452,6 +452,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\logout.png"
+    },
+    {
+      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\lupa.png",
+      "SourceId": "SchoolMind",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "BasePath": "_content/SchoolMind",
+      "RelativePath": "img/lupa.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\lupa.png"
     },
     {
       "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\mais.png",
