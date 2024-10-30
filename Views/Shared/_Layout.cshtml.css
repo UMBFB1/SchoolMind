@@ -1,7 +1,14 @@
 ﻿* {
+  box-sizing: border-box;
   padding: 0;
   margin: 0;
   font-family: "Nunito", sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 .conteiner-body {
@@ -15,26 +22,22 @@
   height: 8vh;
   display: flex;
   align-items: center;
-  flex-direction: row;
+  padding: 0 1%;
 }
 
-.top-bar .logo-bar{
+.top-bar .logo-bar {
   height: 70%;
-  display: flex;
-  margin-left: 1%;
+  margin-right: 10px;
 }
 
 .top-bar .perfil {
   height: 50%;
-  margin-left: 82%;
-  margin-right: 3%;
+  margin-left: auto;
   cursor: pointer;
 }
 
 .top-bar h2 {
   color: white;
-  margin-left: 1%;
-  margin-top: 0.5%;
   font-size: 30px;
 }
 
@@ -44,13 +47,13 @@
   top: 9%;
   right: 1%;
   width: 320px;
-  max-width: 0px;
+  max-height: 0px;
   overflow: hidden;
   transition: max-height 0.5s;
 }
 
-.sub-menu-wrap.open-menu{
-  max-width: 400px;
+.sub-menu-wrap.open-menu {
+  max-height: 400px;
 }
 
 .sub-menu {
@@ -62,10 +65,6 @@
 .user-info {
   display: flex;
   align-items: center;
-}
-
-.user-info h2 {
-  font-weight: 500;
 }
 
 .user-info img {
@@ -113,4 +112,33 @@
 
 .sub-menu-link:hover p {
   font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .top-bar h2 {
+      font-size: 20px;
+  }
+
+  .top-bar .perfil {
+      height: 40%;
+  }
+
+  .sub-menu-wrap {
+      width: 100%;
+      top: 60px;
+      right: 0;
+  }
+
+  .sub-menu {
+      padding: 10px;
+  }
+
+  .sub-menu-link img {
+      width: 30px;
+      padding: 5px;
+  }
+
+  .sub-menu-link span {
+      font-size: 18px;
+  }
 }
