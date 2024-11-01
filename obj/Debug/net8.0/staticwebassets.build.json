@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AzZcZBrLqAV5MxK9zYZGVyGvzsxa8+rkZWOlRX9rkpM=",
+  "Hash": "0X2rROForxvANZoDB6E0dGveFQ+pIkKxWXPfYLXc9e0=",
   "Source": "SchoolMind",
   "BasePath": "_content/SchoolMind",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SchoolMind\\wwwroot",
       "Source": "SchoolMind",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SchoolMind.styles.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SchoolMind.styles.css",
       "SourceId": "SchoolMind",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "SchoolMind.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SchoolMind.styles.css"
+      "OriginalItemSpec": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SchoolMind.styles.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SchoolMind.bundle.scp.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SchoolMind.bundle.scp.css",
       "SourceId": "SchoolMind",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "SchoolMind.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SchoolMind.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SchoolMind.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\css\\professor.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\css\\professor.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "css/professor.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\professor.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\css\\site.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\css\\student.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\css\\student.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "css/student.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\student.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\css\\style.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\favicon.ico",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\agendar.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\agendar.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/agendar.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\agendar.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\atividade.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\atividade.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/atividade.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\atividade.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\botao-adicionar.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\botao-adicionar.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/botao-adicionar.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\botao-adicionar.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\caderno-alternativo.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\caderno-alternativo.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/caderno-alternativo.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\caderno-alternativo.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\calendario.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\calendario.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/calendario.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\calendario.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\editar.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\editar.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/editar.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\editar.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\engrenagem.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\engrenagem.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/engrenagem.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\engrenagem.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\envio.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\envio.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/envio.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\envio.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\estatisticas.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\estatisticas.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/estatisticas.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\estatisticas.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\excluir.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\excluir.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/excluir.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\excluir.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\gerenciar-turma.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\gerenciar-turma.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/gerenciar-turma.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\gerenciar-turma.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\help.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\help.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/help.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\help.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\lista-presenca.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\lista-presenca.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/lista-presenca.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\lista-presenca.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\lista.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\lista.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/lista.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\lista.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\logo.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\logout.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\logout.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/logout.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logout.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\lupa.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\lupa.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/lupa.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\img\\lupa.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\mais.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\mais.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/mais.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mais.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\material.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\material.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/material.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\img\\material.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\para-fazer-tudo.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\para-fazer-tudo.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/para-fazer-tudo.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\para-fazer-tudo.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\perfil.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\perfil.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/perfil.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\img\\perfil.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\pontos.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\pontos.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/pontos.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pontos.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\profile.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\profile.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/profile.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\img\\profile.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\relatorio.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\relatorio.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/relatorio.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\img\\relatorio.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\setting.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\setting.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/setting.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\setting.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\teste.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\teste.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/teste.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\img\\teste.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\turma.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\turma.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/turma.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\turma.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\visualizar-agenda.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\visualizar-agenda.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/visualizar-agenda.png",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\img\\visualizar-agenda.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\visualizar.png",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\img\\visualizar.png",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "img/visualizar.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\img\\visualizar.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\js\\professor.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\js\\professor.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "js/professor.js",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\js\\professor.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\js\\script.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\js\\script.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\js\\site.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\js\\student.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\js\\student.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "js/student.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\js\\student.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SchoolMind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\wwwroot\\",
       "BasePath": "_content/SchoolMind",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

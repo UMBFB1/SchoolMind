@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taylo\\Downloads\\SchoolMind\\SchoolMind.csproj": {}
+    "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\SchoolMind.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taylo\\Downloads\\SchoolMind\\SchoolMind.csproj": {
+    "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\SchoolMind.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taylo\\Downloads\\SchoolMind\\SchoolMind.csproj",
+        "projectUniqueName": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\SchoolMind.csproj",
         "projectName": "SchoolMind",
-        "projectPath": "C:\\Users\\taylo\\Downloads\\SchoolMind\\SchoolMind.csproj",
-        "packagesPath": "C:\\Users\\taylo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\",
+        "projectPath": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\SchoolMind.csproj",
+        "packagesPath": "C:\\Users\\aluno.senai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aluno.senai\\Desktop\\SchoolMind\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\taylo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aluno.senai\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
